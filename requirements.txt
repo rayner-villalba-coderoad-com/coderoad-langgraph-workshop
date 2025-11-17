@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph-checkpoint
+duckduckgo-search
+beautifulsoup4
+requests
+python-dotenv
+pydantic
+streamlit
